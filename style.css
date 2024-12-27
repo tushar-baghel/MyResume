@@ -3,5 +3,11 @@
 }
 .summary img {
     border-radius: 50%;
+    margin-left: 680px;
+    
     
 }
+.summary h1{
+    text-align: center;
+}
+
